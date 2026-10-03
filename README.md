@@ -1,10 +1,7 @@
 # Marcus Castelo
 
-Trabalho com backend e sistemas distribuídos. Sou formado em Ciência da Computação pelo ICMC-USP e já trabalhei com aplicações Android para terminais de pagamento (POS).
+Trabalho com desenvolvimento backend e sou formado em Ciência da Computação pelo ICMC-USP.
 
-Também exploro agentes e LLMs em ferramentas de desenvolvimento e tenho interesse em observabilidade.
+Já trabalhei com uma biblioteca nativa em C para terminais de pagamento (POS) com Android. Hoje, desenvolvo integrações e automações com agentes e LLMs, tanto no trabalho quanto nas ferramentas que uso para programar.
 
-## Projetos
-
-- [Forksmith](https://github.com/marcuscastelo/forksmith): CLI para manutenção de forks, com validação de mudanças e reconciliação assistida por agentes.
-- [browser-focus-sync](https://github.com/marcuscastelo/browser-focus-sync): protótipo de sincronização de abas do Zen/Twilight entre Linux e macOS ao alternar de computador.
+Tenho interesse em observabilidade: entender o que esses sistemas fizeram e onde falharam.
